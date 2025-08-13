@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Studying Computer Science<br>🎯 Always Studying New Languages</p>
+<p align="left">📚 Studying Systems Analysis and Development<br>🎯 Always Studying New Languages</p>
 
 ###
 
