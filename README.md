@@ -1,4 +1,4 @@
-<h1 align="left">Hi! I'm Pedro 👋</h1>
+<h1 align="left">Oi! Eu sou Pedro👋</h1>
 
 ###
 
@@ -6,19 +6,19 @@
 
 ###
 
-<h2 align="left">🧑‍🎓 About me</h2>
+<h2 align="left">🧑‍🎓 Sobre mim</h2>
 
 ###
 
-<p align="left">📚 Studying Systems Analysis and Development<br>🎯 Always Studying New Languages</p>
+<p align="left">📚 Estudando Análise e Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novos idiomas</p>
 
 ###
 
-<h2 align="left">🛠️ Technologies in Development</h2>
+<h2 align="left">🛠️ Tecnologias em desenvolvimento</h2>
 
 ###
 
-<p align="left">🖥️ Platforms already used</p>
+<p align="left">🖥️ Plataformas já usadas</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">🧑‍🎓 I'm learning about the technologies below</p>
+<p align="left">🧑‍🎓 Estou aprendendo sobre as tecnologias abaixo</p>
 
 ###
 
