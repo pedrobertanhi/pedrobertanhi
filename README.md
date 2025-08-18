@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Estudando Análise e Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novos idiomas</p>
+<p align="left">📚 Estudando Análise e Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novas linguagens</p>
 
 ###
 
