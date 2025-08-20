@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">🧑‍🎓 Estou aprendendo sobre as tecnologias abaixo</p>
+<p align="left">🧑‍🎓 Estou aprendendo/aprendido sobre as tecnologias abaixo</p>
 
 ###
 
