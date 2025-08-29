@@ -64,7 +64,7 @@
 
 ###
 
-<p align="left">🔥 Meus Status:</p>
+<h2 align="left">🔥 Meus Status:</h2>
 
 ###
 
