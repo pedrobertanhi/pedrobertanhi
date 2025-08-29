@@ -1,4 +1,4 @@
-<h1 align="left">Oi! Eu sou Pedro👋</h1>
+<h1 align="center">Oi! Eu sou Pedro👋</h1>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
@@ -8,27 +8,27 @@
 
 ###
 
-<p align="left"></p>
+<p align="center"></p>
 
 ###
 
-<h2 align="left">🧑‍🎓 Sobre mim</h2>
+<h2 align="center">🧑‍🎓 Sobre mim</h2>
 
 ###
 
-<p align="left">📚 Estudando Análise e Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novas linguagens</p>
+<p align="center">📚 Estudando Análise e Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novas linguagens</p>
 
 ###
 
-<h2 align="left">🛠️ Tecnologias em desenvolvimento</h2>
+<h2 align="center">🛠️ Tecnologias em desenvolvimento</h2>
 
 ###
 
-<p align="left">🖥️ Plataformas já usadas</p>
+<p align="center">🖥️ Plataformas já usadas</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
@@ -40,7 +40,7 @@
 
 ###
 
-<p align="center">🧑‍🎓 Estou aprendendo/aprendido sobre as tecnologias abaixo</p>
+<p align="center">🧑‍🎓 Estou aprendendo/aprendido sobre as tecnologias abaixo: </p>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">🔥 Meus Status:</h2>
+<h2 align="center">🔥 Meus Status:</h2>
 
 ###
 
