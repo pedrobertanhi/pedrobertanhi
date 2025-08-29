@@ -23,13 +23,14 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-      <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="js logo"  />
-        <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo"  />
-          <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="tailwindcss logo"  />
-          <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+      <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+        <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+          <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="js logo"  />
+            <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo"  />
+              <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="tailwindcss logo"  />
+                <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 
 ###
