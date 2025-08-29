@@ -46,6 +46,12 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+      <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="js logo"  />
+        <img src="https://skillicons.dev/icons?i=sql" height="60" alt="sql logo"  />
+          <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="tailwindcss logo"  />
+          <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
