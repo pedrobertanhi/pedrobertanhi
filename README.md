@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">🧑‍🎓 Estou aprendendo/aprendido sobre as tecnologias abaixo</p>
+<p align="center">🧑‍🎓 Estou aprendendo/aprendido sobre as tecnologias abaixo</p>
 
 ###
 
