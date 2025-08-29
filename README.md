@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Eu sou Pedro👋</h1>
+<h1 align="center">Olá! Eu sou Pedro👋</h1>
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
