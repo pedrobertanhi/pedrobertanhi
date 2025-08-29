@@ -22,10 +22,6 @@
 
 ###
 
-<p align="center">🧑‍🎓 Estou aprendendo/aprendido sobre as tecnologias abaixo: </p>
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
