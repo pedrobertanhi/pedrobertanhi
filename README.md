@@ -1,3 +1,5 @@
+<h1 align="left">Oi! Eu sou Pedro👋</h1>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -17,8 +19,6 @@
 </div>
 
 ###
-
-<h1 align="left">Oi! Eu sou Pedro👋</h1>
 
 ###
 
