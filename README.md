@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="center">🛠️ Tecnologias em  desenvolvidas / em desenvolvimento</h2>
+<h2 align="center">🛠️ Tecnologias  desenvolvidas / em desenvolvimento</h2>
 
 ###
 
