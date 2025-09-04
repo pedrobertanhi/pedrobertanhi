@@ -14,11 +14,11 @@
 
 ###
 
-<p align="center">📚 Estudando Análise e Desenvolvidas / Em Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novas linguagens</p>
+<p align="center">📚 Estudando Análise e Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novas linguagens</p>
 
 ###
 
-<h2 align="center">🛠️ Tecnologias em desenvolvimento</h2>
+<h2 align="center">🛠️ Tecnologias em  desenvolvidas / em desenvolvimento</h2>
 
 ###
 
