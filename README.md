@@ -14,7 +14,7 @@
 
 ###
 
-<p align="center">📚 Estudando Análise e Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novas linguagens</p>
+<p align="center">📚 Estudando Análise e Desenvolvidas / Em Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novas linguagens</p>
 
 ###
 
