@@ -14,6 +14,10 @@
 
 ###
 
+<h3 align="center">📘 Sempre estudando novas linguagens</h3>
+
+###
+
 <h2 align="center">🛠️ Tecnologias desenvolvidas / em desenvolvimento</h2>
 
 ###
