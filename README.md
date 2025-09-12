@@ -12,11 +12,7 @@
 
 <h2 align="center">🧑‍🎓 Sobre mim</h2>
 
-> ###
-
-> <p align="center">📚 Estudando Análise e Desenvolvimento de Sistemas <br> 🎯 Sempre estudando novas linguagens</p>
-
-> ###
+###
 
 <h2 align="center">🛠️ Tecnologias desenvolvidas / em desenvolvimento</h2>
 
