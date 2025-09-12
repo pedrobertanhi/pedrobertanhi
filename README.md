@@ -29,7 +29,7 @@
       <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
         <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
           <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="js logo"  />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="anglar logo"  />
             <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo"  />
               <img src="https://skillicons.dev/icons?i=tailwindcss" height="60" alt="tailwindcss logo"  />
                 <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
