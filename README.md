@@ -21,7 +21,7 @@ Sou Analista de NOC Júnior, focado em garantir a disponibilidade de serviços c
 
 **Monitoramento e Infraestrutura**
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,mysql,mongodb" height="40" alt="infra" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,mysql,mongodb" height="40" alt="infra" />
   <p><i>Zabbix | Centreon | Grafana | GLPI | Jira | ITIL | ISO 27001</i></p>
 </div>
 
