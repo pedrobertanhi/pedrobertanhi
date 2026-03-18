@@ -1,37 +1,62 @@
-<h1 align="center">Olá! Eu sou Pedro👋</h1>
+# Olá! Eu sou o Pedro Bertanhi 👋
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Analista%20de%20NOC-blue?style=for-the-badge&logo=target" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=linux" alt="Focus">
+  <img src="https://img.shields.io/badge/Education-ADS%20Senac-orange?style=for-the-badge&logo=google-classroom" alt="Education">
+</p>
+
+### 👨‍💻 Sobre mim
+
+Sou Analista de NOC Júnior na **FastPay**, focado em garantir a disponibilidade de serviços críticos e infraestrutura. Atualmente, curso Análise e Desenvolvimento de Sistemas no **Senac SP**, unindo o desenvolvimento de software com a defesa cibernética para criar soluções robustas e seguras.
+
+- 🛠 **Operações:** Monitoramento em tempo real (Zabbix/Centreon), análise de logs em Linux e troubleshooting.
+- 🚀 **Automação:** Desenvolvimento de workflows com **n8n** e integrações seguras.
+- 📚 **Aprendizado:** Focando em Pentest, Redes e Hardening de sistemas.
+- 🎯 **Objetivo:** Atuar na área de Defesa Cibernética e Monitoramento de Infraestrutura.
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+**Monitoramento e Infraestrutura**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,docker,mysql,mongodb" height="40" alt="infra" />
+  <p><i>Zabbix | Centreon | Grafana | GLPI | Jira | ITIL | ISO 27001</i></p>
 </div>
 
-###
-
-<p align="center"></p>
-
-###
-
-<h2 align="center">🧑‍🎓 Sobre mim</h2>
-
-###
-
-<h3 align="center">📘 Sempre estudando novas linguagens</h3>
-
-###
-
-<h2 align="center">🛠️ Tecnologias desenvolvidas / em desenvolvimento</h2>
-
-###
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo"  />
-    <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-      <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-        <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-          <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="js logo"  />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="anglar logo"  />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
-            <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="sql logo"  />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-                <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+**Desenvolvimento e Frameworks**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,python,c,html,css" height="40" alt="dev" />
+  <p><i>Java (Spring Boot) | Python | JavaScript | TypeScript | Angular | n8n Automation | SQL & NoSQL</i></p>
 </div>
+
+---
+
+### 🛡️ Certificações em Destaque
+
+* **Segurança:** Fundamentos em Cibersegurança (IBESEC) e Intro ao Hacking e Pentest (Solyd).
+* **Redes:** Conceitos Básicos de Redes (Cisco Networking Academy).
+* **Dados:** Database Programming with PL/SQL (Oracle) e Google Data Analytics.
+* **Sistemas:** Linux Fundamentos (FIAP) e Python Development (FIAP).
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobertanhi&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedrobertanhi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:pedrobertanhi2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
