@@ -42,14 +42,6 @@ Sou Analista de NOC Júnior, focado em garantir a disponibilidade de serviços c
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrobertanhi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobertanhi&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
----
-
 ### 🤝 Conecte-se comigo
 
 <p align="left">
