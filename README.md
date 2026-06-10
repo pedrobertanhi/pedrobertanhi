@@ -1,12 +1,10 @@
 # Olá! Eu sou o Pedro Bertanhi 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Analista%20de%20NOC-blue?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Education-ADS%20Senac-orange?style=for-the-badge&logo=google-classroom" />
+  <img src="https://img.shields.io/badge/Status-Analista%20de%20NOC-blue?style=for-the-badge&logo=target" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge&logo=linux" alt="Focus">
+  <img src="https://img.shields.io/badge/Education-ADS%20Senac-orange?style=for-the-badge&logo=google-classroom" alt="Education">
 </p>
-
----
 
 ### 👨‍💻 Sobre mim
 
@@ -23,27 +21,33 @@ Sou Analista de NOC Júnior, focado em garantir a disponibilidade de serviços c
 
 **Monitoramento e Infraestrutura**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,mysql,mongodb,datadog" height="40" />
-<p><i>Zabbix | Centreon | Grafana | GLPI | Jira | ITIL | ISO 27001</i></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,mysql,mongodb,datadog" height="40" alt="infra" />
+  <p><i>Zabbix | Centreon | Datadog | Grafana | GLPI | Jira | ITIL | ISO 27001</i></p>
+</div>
 
 **Desenvolvimento e Frameworks**
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,angular,c,html,css" height="40" />
-<p><i>Spring Boot | n8n Automation | SQL & NoSQL</i></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,angular,c,html,css" height="40" alt="dev" />
+  <p><i>Java (Spring Boot) | Python | JavaScript | TypeScript | Angular | SQL & NoSQL | C | HTML | CSS | n8n Automation</i></p>
+</div>
 
 ---
 
 ### 🛡️ Certificações em Destaque
 
-- **Segurança:** Fundamentos em Cibersegurança (IBESEC) e Intro ao Hacking e Pentest (Solyd).
-- **Redes:** Conceitos Básicos de Redes (Cisco Networking Academy).
-- **Dados:** Database Programming with PL/SQL (Oracle) e Google Data Analytics.
-- **Sistemas:** Linux Fundamentos (FIAP) e Python Development (FIAP).
+* **Segurança:** Fundamentos em Cibersegurança (IBESEC) e Intro ao Hacking e Pentest (Solyd).
+* **Redes:** Conceitos Básicos de Redes (Cisco Networking Academy).
+* **Dados:** Database Programming with PL/SQL (Oracle) e Google Data Analytics.
+* **Sistemas:** Linux Fundamentos (FIAP) e Python Development (FIAP).
 
 ---
 
 ### 🤝 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/pedrobertanhi" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedrobertanhi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+</p>
