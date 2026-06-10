@@ -42,6 +42,10 @@ Sou Analista de NOC Júnior, focado em garantir a disponibilidade de serviços c
 
 ---
 
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
+
+---
+
 ### 🤝 Conecte-se comigo
 
 <p align="left">
