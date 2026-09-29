@@ -23,7 +23,7 @@ Sou Analista de NOC Júnior, focado em garantir a disponibilidade de serviços c
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,bash,git,mysql,mongodb,datadog" height="40" alt="infra" />
-  <p><i>Zabbix | Centreon | Datadog | Grafana | GLPI | Jira | ITIL | ISO 27001</i></p>
+  <p><i>Zabbix | Centreon | Datadog | Grafana | GLPI | Jira | ITIL | ISO 27001 | ISO 25010</i></p>
 </div>
 
 **Desenvolvimento e Frameworks**
