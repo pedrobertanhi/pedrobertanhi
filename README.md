@@ -35,6 +35,17 @@ Sou Analista de NOC Júnior, focado em garantir a disponibilidade de serviços c
 
 ---
 
+### 📊 Linguagens mais utilizadas
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobertanhi&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+    alt="Linguagens mais utilizadas por Pedro Bertanhi"
+  />
+</p>
+
+---
+
 ### 🛡️ Certificações em Destaque
 
 * **Segurança:** Fundamentos em Cibersegurança (IBESEC) e Intro ao Hacking e Pentest (Solyd).
