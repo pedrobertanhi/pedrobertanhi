@@ -39,7 +39,7 @@ Sou Analista de NOC Júnior, focado em garantir a disponibilidade de serviços c
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobertanhi&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Linguagens mais utilizadas por Pedro Bertanhi"
   />
 </p>
