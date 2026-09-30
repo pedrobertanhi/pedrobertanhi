@@ -10,7 +10,7 @@
 
 Sou Analista de NOC Júnior, focado em garantir a disponibilidade de serviços críticos e infraestrutura. Atualmente, curso Análise e Desenvolvimento de Sistemas no **Senac SP**, unindo o desenvolvimento de software com a defesa cibernética para criar soluções robustas e seguras.
 
-- 🛠 **Operações:** Monitoramento em tempo real (Zabbix/Centreon), análise de logs em Linux.
+- 🛠 **Operações:** Monitoramento em tempo real (Zabbix/Centreon/Datadog), análise de logs em Linux.
 - 🚀 **Automação:** Desenvolvimento de workflows com **n8n** e integrações seguras.
 - 📚 **Aprendizado:** Focando em Pentest, Redes e Hardening de sistemas.
 - 🎯 **Objetivo:** Atuar na área de Defesa Cibernética e Monitoramento de Infraestrutura.
