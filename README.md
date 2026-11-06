@@ -30,7 +30,7 @@ Sou Analista de NOC Júnior, focado em garantir a disponibilidade de serviços c
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,angular,c,html,css,react" height="40" alt="dev" />
-  <p><i>Java (Spring Boot) | Python | JavaScript | TypeScript | Angular | SQL & NoSQL | C | HTML | CSS | React Native | n8n Automation</i></p>
+  <p><i>Java | Spring Boot | Python | JavaScript | TypeScript | Angular | SQL & NoSQL | C | HTML | CSS | React Native | n8n Automation</i></p>
 </div>
 
 ---
